@@ -1,0 +1,32 @@
+body{
+    font-family: 'Arial',sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding:150px;
+}
+
+.resume-container{
+    display: flex;
+    background-color: white;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-sizing: 0 0 20px rgba(0.0.0.0.1);
+}
+
+.left-section{
+    background-color: #4b3999;
+    color: white;
+    padding: 20px;
+    width: 35%;
+    text-align: center;
+    border-right: 5px solid #958ac7;
+}
+
+.profile-picture{
+    width: 150px;
+    height: 150px;
+    margin-top: 10%;
+    border-radius: 50%;
+    border: 5px solid #e53845;
+}
